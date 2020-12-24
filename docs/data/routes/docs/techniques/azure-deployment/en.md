@@ -17,8 +17,8 @@ Starting from Sitecore 9.1 release JSS server components can be provisioned alon
 ## Step 2: Install the JSS server components (optional)
 
 In case you already have Sitecore instance in Azure you have to use ARM templates methodology.
-1. Download official released Sitecore JSS WDP package https://dev.sitecore.net/Downloads/Sitecore_JavaScript_Services/110/Sitecore_JavaScript_Services_1100.aspx
-1. Download ARM templates for the appropriate topology available on the GitHub https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates/tree/master/JSS
+1. Download official released Sitecore JSS WDP package <https://dev.sitecore.net/Downloads/Sitecore\_JavaScript\_Services/110/Sitecore\_JavaScript\_Services\_1100.aspx>
+1. Download ARM templates for the appropriate topology available on the GitHub <https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates/tree/master/JSS%2011.0.1>
 1.	After you download all wdp’s and ARM’s you should preserve all files to some publicly available storage like Azure storage.
 1. Prepare parameters.json file. Content of the file should be similar to the following:
 ```json
